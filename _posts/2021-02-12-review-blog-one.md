@@ -12,11 +12,11 @@ Placing Segregation is an exploration of Englishman and physician, Hans Sloane�
 
 ## Design Methods
 
-The project site design was built using coding languages of HTML, CSS, Javascript and text-based GeoJSON , and the library Leaflet.js. The usage of these tools optimizes the reader's experience on laptops, desktop computer devices, and mobile devices such as cellphones and tablets. The site allows for the reader to view and analyze three major communities in a digital format that help them feel like they are in the 1860s-70s.
+The project site design was built using coding languages of HTML, CSS, Javascript and text-based GeoJSON, and the library Leaflet.js. The usage of these tools optimizes the reader's experience on laptops, desktop computer devices, and mobile devices such as cellphones and tablets. The site allows for the reader to view and analyze three major communities in a digital format that help them feel like they are in the 1860s-70s era.
 
 ## Importance
 
-The project does an excellent job of utilizing historical documentation and technology to better analyze the recorded census of the time period. The project’s director is proficient in the field of geography and historical record-keeping, two areas of expertise that make up core of the project’s findings. The information presented within these maps shows the level of research about the topic by presenting accurate historical data that traces back several decades within an interactive map. The directors do offer contact and social media information in which you can get into contact with them about further research and questions on the project.
+The project does an excellent job of utilizing historical documentation and technology to better analyze the recorded census of the time period. The project’s director is proficient in the field of geography and historical record-keeping, two areas of expertise that make up core of the project’s findings. The information presented within these maps shows the level of research about the topic by presenting accurate historical data that traces back several decades within an interactive map. The directors offer contact information in which you can get into contact with them about further research and questions on the project.
 
 ## Credentials
 
@@ -24,7 +24,7 @@ In its Methods section, the project quotes having been reviewed and published in
 
 ## Review
 
-Placing Segregation does an excellent job of merging history and technology in a user-friendly yet visually appealing way. I enjoyed exploring the musical works and images on the pages and how flawlessly the site moved through its design. It made great use of subsections (Explore, Read, and About) but could’ve benefited from grouping the larger passages of texts with subheadings so the reader was better informed on what they were reading. On the Explore tab, the images are interactive but a legend containing the instructions on what the reader is viewing, what to click on, and what parts of the page are interactive would be very useful.
+Placing Segregation does an excellent job of merging history and technology in a user-friendly way. I enjoyed exploring the musical works and images on the pages and how flawlessly the site moved through its design. It made great use of subsections (Explore, Read, and About) but could’ve benefited from grouping the larger passages of texts with subheadings so the reader was better informed on what they were reading. On the Explore tab, the images are interactive but a legend containing the instructions on what the reader is viewing, what to click on, and what parts of the page are interactive would be very useful.
 
 All three maps work well on laptops, desktop computer devices, 
 
