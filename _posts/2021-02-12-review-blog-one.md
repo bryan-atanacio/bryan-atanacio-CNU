@@ -24,11 +24,11 @@ In its Methods section, the project director explains that the basis for all of 
 
 ## Review
 
-Placing Segregation does an excellent job of merging history and technology in a user-friendly way. I enjoyed the ease of access that three maps presented in the blog gave to me as a viewer. However, I did find the "Home" page to leave more to be desired as it felt very minimalistic with only links to the three maps. Having more information about what the blog's intent is could elevate the level of research and professionalism that is presented within the maps. The "About" section of the blog gave much information about the project as a whole and why it was made, but it could use some images to better separate the wall of text. 
+Placing Segregation does an excellent job of merging history and technology in a user-friendly way. I enjoyed the ease of access that three maps presented in the blog gave to me as a viewer. However, I did find the "Home" page to leave more to be desired as it felt very minimalistic with only links to the three maps. Having more information about what the blog's intent is could elevate the level of research and professionalism that is presented within the maps. The "About" section of the blog gave much information about the project as a whole and why it was made, but it could use some images to better separate the wall of text. The "Methods" section can be described the same way as the "About" page in that it could be better split up with mroe images. The "Interpretations" section gave much detail into the history behind each of the three cities. The "Excercises" section happens to be completely empty and I was very curious as to the purpose behind that.
 
-All three maps work well on laptops, desktop computer devices, 
+All three maps work well on laptops, desktop computer devices, mobile phones, and tablets. The filtering system works better on desktop devices but does not hinder the overall experience of the blog.  
 
-Overall, the project is well informed and put together. I feel as though it does a great job of teaching one about the musical influences enslaved peoples had on history both abroad and in the New World.
+Overall, the project contains much information and was very easy to navigate. I believe that this project has taught me a great deal about the segration of African-American, German, and Irish communities in the 1860s-70s.
 
 
 
