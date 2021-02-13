@@ -8,7 +8,7 @@
 
 ## Summary
 
-Placing Segregation is an exploration of Englishman and physician, Hans Sloane’s discoveries while traveling to and living in Jamaica in the 1700s. His dedication to the study and preservation of the numerous cultures he explored over his twenty years of travel lead to the publication of his own book. The book and its subsequent volumes contain his findings of Caribbean history, engravings, ecology, and wildlife. The project directors’ aim for the project is to introduce the reader to some of the first known and earliest transcriptions of music which were created and performed by African slaves and survivors of the Middle Passage.
+_Placing Segregation_ is a journey through the 1860s-70s in the three major cities of Washington, Omaha, and Nashville. Dr. Shephard has dedicated time and extremely accurate historical census data to better study, understand, and preserve the culture of multiple minority group communities. Through extensive research into the historical census data of early America, Dr. Shephard and his associates have gathered information about every person within those three major city areas including occupation, age, gender, et.. The directors’ purpose for the project is to create a resource for historical inquiry that enables immediate analysis of the particular areas of interest. 
 
 ## Design Methods
 
