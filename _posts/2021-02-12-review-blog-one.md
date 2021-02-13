@@ -30,4 +30,4 @@ All three maps work well on laptops, desktop computer devices,
 
 Overall, the project is well informed and put together. I feel as though it does a great job of teaching one about the musical influences enslaved peoples had on history both abroad and in the New World.
 
-![Placing Segregation Home Page](https://bryan-atanacio.github.io/bryan-atanacio-CNU/_images/Blog Home Page.PNG)
+![Placing Segregation Home Page](https://bryan-atanacio.github.io/bryan-atanacio-CNU/_images/Home - Placing Segregation Blog - JPEG.jpg)
