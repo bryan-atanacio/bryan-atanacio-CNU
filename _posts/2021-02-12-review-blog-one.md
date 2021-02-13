@@ -20,11 +20,11 @@ The project does an excellent job of utilizing historical documentation and tech
 
 ## Credentials
 
-In its Methods section, the project quotes having been reviewed and published in the inaugural issued of SX Archipelagos, a digital wing of the Small Axe Project. They credit funding jointly to the Franklin Humanities Institute and the Form for Scholars and Publics. Images and other visual aids were provided by the Rubenstein Rare Book & Manuscript Library at Duke University. Music samples and notations of Hans Sloane were contributed by Rich Rath, via his musical library EthnoDigital Sonics Meets Maker Culture in Seventeenth-Century Jamaica.
+In its Methods section, the project director explains that the basis for all of the data for the maps came from census information from the 1860s-70s. Any families or homes that did not have accurate listings were assumed based on the "address information" for the time period.
 
 ## Review
 
-Placing Segregation does an excellent job of merging history and technology in a user-friendly way. I enjoyed exploring the musical works and images on the pages and how flawlessly the site moved through its design. It made great use of subsections (Explore, Read, and About) but could’ve benefited from grouping the larger passages of texts with subheadings so the reader was better informed on what they were reading. On the Explore tab, the images are interactive but a legend containing the instructions on what the reader is viewing, what to click on, and what parts of the page are interactive would be very useful.
+Placing Segregation does an excellent job of merging history and technology in a user-friendly way. I enjoyed the ease of access that three maps presented in the blog gave to me as a viewer. However, I did find the "Home" page to leave more to be desired as it felt very minimalistic with only links to the three maps. Having more information about what the blog's intent is could elevate the level of research and professionalism that is presented within the maps. The "About" section of the blog gave much information about the project as a whole and why it was made, but it could use some images to better separate the wall of text. 
 
 All three maps work well on laptops, desktop computer devices, 
 
