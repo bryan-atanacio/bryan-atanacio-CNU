@@ -18,7 +18,7 @@ This project was jumpstarted in large part to Google, as they teamed up with the
 
 ### Review
 _The Digital Dead Sea Scrolls_ does a great job of fusing the historical context of the Israeli culture and religion with the DH presentation for the general audience. This project has many pros and many cons to its design and functionality that both enhance and slightly take me out of the experience.
-At the “Home Page”, it lays out the several available Dead Sea Scrolls that have been digitized as well as an introductory video to the Israel Museum and their goals for the website. I prefer overly simplistic, yet functional design work from these types of sites and _The Digital Dead Sea Scrolls_ definitely delivers in that regard. A separate video was within every Dead Sea Scroll entry on the site, and it showed the physical scrolls in the Israel Museum for each individual scroll.
+At the “Home Page”, it lays out the several available Dead Sea Scrolls that have been digitized as well as an introductory video to the Israel Museum and their goals for the website. I prefer overly simplistic, yet functional design work when it comes to these types of sites and _The Digital Dead Sea Scrolls_ definitely delivers in that regard. A separate video was within every Dead Sea Scroll entry on the site, and it showed the physical scrolls in the Israel Museum for each individual scroll.
 
 ![Isaiah Scroll](https://bryan-atanacio.github.io/bryan-atanacio-CNU/images/Isaiah.JPG)
 
